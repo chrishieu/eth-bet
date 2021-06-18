@@ -1,0 +1,8 @@
+{
+  "domain": "http://localhost",
+  "title": "Mini game",
+  "smtp_host": "",
+  "smtp_port": 465,
+  "smtp_user": "",
+  "smtp_password": ""
+}
